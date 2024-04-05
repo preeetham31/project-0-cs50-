@@ -1,18 +1,29 @@
-# project-0-cs50-webdev
-A quick overview of the first assignment of CS50 Web Programming: a simple clone of Google Search, Google Advanced Search and Google Images purely made with HTML and SCSS.
+# Project Overview
 
-## Assignment specification
-- **Pages**. Your website should have at least three pages: one for Google Search, one for Google Image Search, and one for Google Advanced Search.
-    - On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search.
-- **Query Text**. On the Google Search page, the user should be able to type in a query, click “Google Search”, and be taken to the Google search results for that page.
-    - Like Google’s own, your search bar should be centered with rounded corners. The search button should also be centered, and should be beneath the search bar.
-- **Query Images**. On the Google Image Search page, the user should be able to type in a query, click a search button, and be taken to the Google Image search results for that page.
-- **Query Advanced**. On the Google Advanced Search page, the user should be able to provide input for the following four fields (taken from Google’s own advanced search options)
-    - Find pages with… “all these words:”
-    - Find pages with… “this exact word or phrase:”
-    - Find pages with… “any of these words:”
-    - Find pages with… “none of these words:”
-- **Appearance**. Like Google’s own Advanced Search page, the four options should be stacked vertically, and all of the text fields should be left aligned.
-    - Consistent with Google’s own CSS, the “Advanced Search” button should be blue with white text. When the “Advanced Search” button is clicked, the user should be taken to search results page for their given query.
-- **Lucky**. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page.
-- **Aesthetics**. The CSS you write should match Google’s own aesthetics as best as possible.
+This project is the first assignment of CS50 Web Programming, involving creating a simple clone of Google Search, Google Advanced Search, and Google Images using HTML and SCSS.
+
+## Assignment Specifications
+
+- **Pages**: Create three pages: Google Search, Google Image Search, and Google Advanced Search. Include links for navigation between the pages.
+- **Query Text**: Allow users to type a query on the Google Search page and click "Google Search" to see search results.
+- **Query Images**: On the Google Image Search page, allow users to type a query and click a search button to see image search results.
+- **Query Advanced**: Provide input fields for specific search options on the Google Advanced Search page, similar to Google's advanced search options.
+- **Appearance**: Style the pages to match Google's aesthetics, including centered search bars with rounded corners and blue "Advanced Search" buttons.
+
+## Additional Features
+
+- **Lucky Button**: Include an "I'm Feeling Lucky" button on the main Google Search page to take users directly to the first search result.
+- **Aesthetics**: Ensure that the CSS matches Google's design as closely as possible.
+
+## Instructions
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Explore the different pages and functionalities of the project.
+
+## Contributions
+
+Contributions and feedback are welcome! If you find any issues or have suggestions for improvement, please create a pull request or raise an issue in the [issue tracker](https://github.com/yourusername/yourprojectname/issues).
+
+
+
